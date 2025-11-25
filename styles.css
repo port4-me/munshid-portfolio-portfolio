@@ -5,14 +5,14 @@
 }
 
 :root {
-    --primary-color: #f73b3b;
-    --secondary-color: #e4e2e9;
+    --primary-color: #3B82F6;
+    --secondary-color: #1E293B;
     --accent-color: #34D399;
     --text-color: #E2E8F0;
     --text-muted: #94A3B8;
     --bg-dark: #0F172A;
     --bg-darker: #020617;
-    --bg-card: #e4e2e9;
+    --bg-card: #1E293B;
     --border-color: #334155;
 }
 
